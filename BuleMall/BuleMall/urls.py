@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
+
     path('admin/', admin.site.urls),
 
     # 首页
@@ -27,4 +28,5 @@ urlpatterns = [
 
     # 验证码
     path('', include('apps.verifies.urls')),
+
 ]

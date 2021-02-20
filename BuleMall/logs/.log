@@ -435,3 +435,189 @@ INFO 2021-02-19 22:36:43,707 basehttp 157 "GET /static/js/user_center_site.js HT
 INFO 2021-02-19 22:36:43,720 basehttp 157 "GET /static/images/edit.png HTTP/1.1" 200 1244
 WARNING 2021-02-19 22:36:43,755 log 224 Not Found: /areas/
 WARNING 2021-02-19 22:36:43,756 basehttp 157 "GET /areas/ HTTP/1.1" 404 3529
+INFO 2021-02-19 23:38:23,804 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:38:25,066 basehttp 157 "GET / HTTP/1.1" 200 30163
+INFO 2021-02-19 23:38:25,109 basehttp 157 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-02-19 23:38:25,181 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 304 0
+WARNING 2021-02-19 23:38:25,372 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:25,373 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:27,665 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:27,795 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:27,796 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:28,316 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:28,440 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:28,442 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:28,496 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:28,648 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:28,648 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:28,912 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:29,031 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:29,031 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:29,268 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:29,401 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:29,401 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:38,610 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:38:39,932 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:40,202 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:40,203 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:38:59,273 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:38:59,536 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:38:59,537 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:39:06,132 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:39:06,394 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:39:06,394 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:39:14,727 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:39:15,873 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:39:16,158 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:39:16,159 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:39:38,696 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:39:39,668 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:39:40,068 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:39:40,069 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:39:40,109 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:39:40,110 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:39:41,520 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:39:41,771 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:39:41,771 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:39:52,209 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:39:53,445 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:39:53,446 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:39:53,602 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:39:53,602 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:39:59,785 basehttp 157 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-02-19 23:39:59,829 basehttp 157 "GET /login/ HTTP/1.1" 200 2938
+INFO 2021-02-19 23:39:59,895 basehttp 157 "GET /static/images/logo02.png HTTP/1.1" 304 0
+INFO 2021-02-19 23:40:07,725 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:40:07,968 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:40:07,968 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:40:17,614 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:40:18,966 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:40:19,398 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:40:19,399 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:40:19,433 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:40:19,434 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+WARNING 2021-02-19 23:40:31,868 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2021-02-19 23:41:53,828 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:41:55,939 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:41:56,366 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:41:56,366 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:41:57,235 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:41:57,235 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:42:14,525 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:42:17,030 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:42:17,434 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:42:17,434 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:42:17,459 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:42:17,459 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+WARNING 2021-02-19 23:42:24,810 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2021-02-19 23:43:27,935 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:43:28,192 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:43:28,193 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:43:28,235 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:43:28,235 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:47:00,683 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:47:02,375 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:47:02,737 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:47:02,738 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:47:02,771 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:47:02,772 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:47:25,783 basehttp 157 "GET / HTTP/1.1" 200 30163
+INFO 2021-02-19 23:47:25,848 basehttp 157 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-02-19 23:47:25,991 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:47:25,992 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:47:30,381 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2021-02-19 23:48:09,567 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2021-02-19 23:49:34,342 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-19 23:49:36,132 basehttp 157 "GET / HTTP/1.1" 200 30163
+INFO 2021-02-19 23:49:36,226 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2021-02-19 23:49:36,249 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2021-02-19 23:49:36,249 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 76
+INFO 2021-02-19 23:49:36,252 basehttp 157 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-02-19 23:49:36,255 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-02-19 23:49:36,259 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-02-19 23:49:36,262 basehttp 157 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-02-19 23:49:36,273 basehttp 157 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2021-02-19 23:49:36,283 basehttp 157 "GET /static/js/index.js HTTP/1.1" 200 1388
+INFO 2021-02-19 23:49:36,302 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 15162
+INFO 2021-02-19 23:49:36,303 basehttp 157 "GET /static/images/slide01.jpg HTTP/1.1" 200 55060
+INFO 2021-02-19 23:49:36,303 basehttp 157 "GET /static/images/slide04.jpg HTTP/1.1" 200 30588
+INFO 2021-02-19 23:49:36,304 basehttp 157 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2021-02-19 23:49:36,304 basehttp 157 "GET /static/images/slide02.jpg HTTP/1.1" 200 33192
+INFO 2021-02-19 23:49:36,316 basehttp 157 "GET /static/images/banner01.jpg HTTP/1.1" 200 23658
+INFO 2021-02-19 23:49:36,316 basehttp 157 "GET /static/images/goods/goods003.jpg HTTP/1.1" 200 8579
+INFO 2021-02-19 23:49:36,319 basehttp 157 "GET /static/images/slide03.jpg HTTP/1.1" 200 588245
+INFO 2021-02-19 23:49:36,353 basehttp 157 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2021-02-19 23:49:36,354 basehttp 157 "GET /static/images/goods/goods005.jpg HTTP/1.1" 200 7578
+INFO 2021-02-19 23:49:36,354 basehttp 157 "GET /static/images/goods/goods004.jpg HTTP/1.1" 200 6565
+INFO 2021-02-19 23:49:36,354 basehttp 157 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2021-02-19 23:49:36,355 basehttp 157 "GET /static/images/banner02.jpg HTTP/1.1" 200 26729
+INFO 2021-02-19 23:49:36,375 basehttp 157 "GET /static/images/goods/goods008.jpg HTTP/1.1" 200 7072
+INFO 2021-02-19 23:49:36,375 basehttp 157 "GET /static/images/goods/goods009.jpg HTTP/1.1" 200 8738
+INFO 2021-02-19 23:49:36,375 basehttp 157 "GET /static/images/banner03.jpg HTTP/1.1" 200 22681
+INFO 2021-02-19 23:49:36,404 basehttp 157 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2021-02-19 23:49:36,566 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:49:36,567 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:49:37,427 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:49:37,427 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:50:11,761 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:50:12,213 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:50:12,214 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-19 23:50:13,049 log 224 Not Found: /favicon.ico
+WARNING 2021-02-19 23:50:13,049 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-19 23:50:13,871 basehttp 157 "GET /login/ HTTP/1.1" 200 2938
+INFO 2021-02-19 23:50:13,943 basehttp 157 "GET /static/js/login.js HTTP/1.1" 200 1769
+INFO 2021-02-19 23:50:13,944 basehttp 157 "GET /static/images/logo02.png HTTP/1.1" 200 15162
+INFO 2021-02-19 23:50:13,962 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2021-02-19 23:50:13,965 basehttp 157 "GET /static/images/login_banner.png HTTP/1.1" 200 319312
+INFO 2021-02-19 23:50:13,973 basehttp 157 "GET /static/images/QQ-weixin.png HTTP/1.1" 200 1816
+INFO 2021-02-19 23:50:15,861 basehttp 157 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-02-19 23:50:15,881 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-19 23:50:16,053 log 224 Not Found: /carts/simple/
+WARNING 2021-02-19 23:50:16,053 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-19 23:50:17,852 basehttp 157 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-02-19 23:50:17,869 basehttp 157 "GET /login/ HTTP/1.1" 200 2938
+INFO 2021-02-20 09:34:06,124 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-20 09:34:09,686 basehttp 157 "GET / HTTP/1.1" 200 30163
+INFO 2021-02-20 09:34:09,734 basehttp 157 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-02-20 09:34:09,790 basehttp 157 "GET /static/images/slide01.jpg HTTP/1.1" 304 0
+INFO 2021-02-20 09:34:09,791 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2021-02-20 09:34:09,791 basehttp 157 "GET /static/images/slide03.jpg HTTP/1.1" 304 0
+INFO 2021-02-20 09:34:09,796 basehttp 157 "GET /static/images/slide04.jpg HTTP/1.1" 304 0
+INFO 2021-02-20 09:34:09,797 basehttp 157 "GET /static/images/slide02.jpg HTTP/1.1" 304 0
+WARNING 2021-02-20 09:34:10,069 log 224 Not Found: /carts/simple/
+WARNING 2021-02-20 09:34:10,085 log 224 Not Found: /favicon.ico
+WARNING 2021-02-20 09:34:10,085 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+WARNING 2021-02-20 09:34:10,085 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 3544
+INFO 2021-02-20 09:34:25,301 basehttp 157 "GET /login/ HTTP/1.1" 200 2938
+INFO 2021-02-20 09:34:25,368 basehttp 157 "GET /static/images/logo02.png HTTP/1.1" 304 0
+INFO 2021-02-20 09:34:27,041 basehttp 157 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-02-20 09:34:27,069 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-20 09:34:27,234 log 224 Not Found: /carts/simple/
+WARNING 2021-02-20 09:34:27,234 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-20 09:53:30,187 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-20 09:53:30,439 log 224 Not Found: /carts/simple/
+WARNING 2021-02-20 09:53:30,440 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-20 09:53:32,922 basehttp 157 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-02-20 09:53:32,940 basehttp 157 "GET /login/ HTTP/1.1" 200 2938
+INFO 2021-02-20 09:53:34,825 basehttp 157 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-02-20 09:53:34,848 basehttp 157 "GET / HTTP/1.1" 200 30163
+WARNING 2021-02-20 09:53:34,971 log 224 Not Found: /carts/simple/
+WARNING 2021-02-20 09:53:34,971 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3550
+INFO 2021-02-20 09:53:39,439 basehttp 157 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-02-20 09:53:39,455 basehttp 157 "GET /login/ HTTP/1.1" 200 2938
+INFO 2021-02-20 09:53:42,123 basehttp 157 "GET /register/ HTTP/1.1" 200 4128
+INFO 2021-02-20 09:53:42,823 basehttp 157 "GET /image_codes/e3f89448-3e17-4992-91fa-cffe1f31d49f/ HTTP/1.1" 200 2900
+WARNING 2021-02-20 09:53:45,898 log 224 Not Found: /qqlogin/
+WARNING 2021-02-20 09:53:45,898 basehttp 157 "GET /qqlogin/ HTTP/1.1" 404 3535
+WARNING 2021-02-20 09:54:07,471 log 224 Not Found: /index_page
+WARNING 2021-02-20 09:54:07,472 basehttp 157 "GET /index_page HTTP/1.1" 404 3541
+INFO 2021-02-20 09:55:36,087 autoreload 236 D:\toGithubFiles\DjangoProject\BuleMall\BuleMall\BuleMall\urls.py changed, reloading.
+INFO 2021-02-20 09:55:36,727 autoreload 613 Watching for file changes with StatReloader
+INFO 2021-02-20 10:44:15,734 basehttp 157 "GET / HTTP/1.1" 200 30163
+INFO 2021-02-20 10:44:15,772 basehttp 157 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-02-20 10:44:15,833 basehttp 157 "GET /static/images/slide01.jpg HTTP/1.1" 304 0
+INFO 2021-02-20 10:44:15,836 basehttp 157 "GET /static/images/slide02.jpg HTTP/1.1" 304 0
+INFO 2021-02-20 10:44:15,837 basehttp 157 "GET /static/images/slide03.jpg HTTP/1.1" 304 0
+INFO 2021-02-20 10:44:15,837 basehttp 157 "GET /static/images/slide04.jpg HTTP/1.1" 304 0
+WARNING 2021-02-20 10:44:16,004 log 224 Not Found: /carts/simple/
+WARNING 2021-02-20 10:44:16,005 basehttp 157 "GET /carts/simple/ HTTP/1.1" 404 3923
